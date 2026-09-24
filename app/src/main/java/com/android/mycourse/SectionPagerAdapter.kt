@@ -6,7 +6,7 @@ import androidx.viewpager2.adapter.FragmentStateAdapter
 
 class SectionPagerAdapter(activity: AppCompatActivity): FragmentStateAdapter(activity) {
     override fun createFragment(position: Int): Fragment {
-        TODO("Not yet implemented")
+
         var fragment: Fragment? = null
         when (position) {
             0 -> fragment = HomeFragment()
