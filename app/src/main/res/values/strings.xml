@@ -2,6 +2,10 @@
     <string name="app_name">My Course</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="tab_text_1">Home</string>
-    <string name="tab_text_2">Profile</string>
-    <string name="tab_text_3">Setting</string>
+    <string name="tab_text_2">Materi</string>
+    <string name="tab_text_3">Quiz</string>
+
+<!--    home fragment-->
+    <string name="title">Praktikum Pemrograman - Kelas B1</string>
+    <string name="deskripsi">Kelas praktikum pengembangan aplikasi Android menggunakan Kotlin. Membahas dasar UI, RecyclerView, Fragment, hingga penggunaan library ViewPager2 dan TabLayout.</string>
 </resources>
